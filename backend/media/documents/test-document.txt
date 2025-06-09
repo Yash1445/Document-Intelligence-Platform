@@ -1,0 +1,17 @@
+﻿This is a sample document for testing the Document Intelligence Platform.
+
+The platform allows users to upload documents and ask questions about their content using AI technology.
+
+Features include:
+- Document upload and processing
+- Natural language question answering
+- Retrieval Augmented Generation (RAG)
+- Vector database for semantic search
+
+This is a great example of how AI can help users interact with their documents more effectively.
+
+Key benefits:
+- Save time searching through documents
+- Get instant answers to questions
+- Understand document content better
+- Improve productivity with AI assistance
